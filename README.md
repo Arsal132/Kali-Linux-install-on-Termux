@@ -1,2 +1,1 @@
-curl https://raw.githubusercontent.com/TecnicalBot/modded-distro/main/install.sh >> install.sh
-bash install.sh
+<pre>curl https://raw.githubusercontent.com/tipsandtricks/main/./install-nethunter-termux/<span class="pl-k">&gt;&gt;</span>1/

@@ -1,13 +1,20 @@
 ![image alt](https://github.com/Arsal132/Kali-Linux-install-on-Termux/blob/4f358582c08045fc5b50237946a3dd16dab811d3/Build/20241128_140817.jpg)
 
 So hello friend welcome to my YouTube channel and I have to install from the kali linux for modded os 
+![image alt](https://github.com/Arsal132/Kali-Linux-install-on-Termux/blob/main/1734169048668.jpg)
+Pkg update command enter 
+
 <pre>pkg update -y</pre>
 So If We Update pkg Repo and Install kali Linux and So If We Update Repo and Install kali Linux desktop 
+![image alt](https://github.com/Arsal132/Kali-Linux-install-on-Termux/blob/main/1734168660316.jpg)
+Wget Update for New Update Download 
 <pre>pkg install wget -y</pre>
 So If We Update repo and Install Wget Pkg next Working 
 <pre>termux-setup-storage</pre>
 So This command Will Connect On Your Storage 
 So Now If We Next Command For Linux pkg update 
+
+So Wget Pkg update file for install Nethunter termux 
 <pre>wget -O install-nethunter-termux https://offs.ec/2MceZWr</pre>
 So If We Update Pkg Install kali For A Desktop and Full Setup and So Friend We Update install 
 <pre>chmod +x install-nethunter-termux</pre>

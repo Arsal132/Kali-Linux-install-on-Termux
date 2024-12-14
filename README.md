@@ -1,3 +1,5 @@
+![image alt](https://github.com/Arsal132/Kali-Linux-install-on-Termux/blob/4f358582c08045fc5b50237946a3dd16dab811d3/Build/20241128_140817.jpg)
+
 So hello friend welcome to my YouTube channel and I have to install from the kali linux for modded os 
 
 <pre>pkg update -y</pre>
